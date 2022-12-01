@@ -5,13 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nox1do" alt="nox1do" /></a> </p>
 
-- 🔭 I’m currently working on **Veterinary app**
+- 🔭 I’m currently working on [Veterinary app](https://github.com/Jen-GM/Proyecto-Final-Vet)
 
-- 👯 I’m looking to collaborate on **anything with React**
+- 🌱 I’m currently learning **React + Firebase**
+
+- 👯 I’m looking to collaborate on **Javascript or Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Nox1do](https://github.com/Nox1do)
+
+- 💬 Ask me about **Javascript, Python, Flask and APIs**
+
+- 📫 How to reach me **noogux@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/noegt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/noegt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noegt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noegt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
