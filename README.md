@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nox1do&label=Profile%20views&color=0e75b6&style=flat" alt="nox1do" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nox1do" alt="nox1do" /></a> </p>
+<p align="left"> <a href="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"><img src="https://github-profile-trophy.vercel.app/?username=nox1do" alt="nox1do" /></a> </p>
 
 - 🔭 I’m currently working on [Veterinary app](https://github.com/Jen-GM/Proyecto-Final-Vet)
 
