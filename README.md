@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript or Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nox1do](https://github.com/Nox1do)
+- 👨‍💻 All of my projects are available **This repository**)
 
 - 💬 Ask me about **Javascript, Python, Flask and APIs**
 
