@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript or Python**
 
-- 👨‍💻 All of my projects are available **This repository and porfolio website(Coming soon)**
+- 👨‍💻 All of my projects are available on **This repository and porfolio website(Coming soon)**
 
 - 💬 Ask me about **Javascript, Python, Flask and APIs**
 
