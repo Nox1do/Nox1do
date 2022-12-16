@@ -15,8 +15,8 @@
 
 - 💬 Ask me about **Javascript, Python, Flask and APIs**
 
-- 📫 How to reach me **noogux@gmail.com or  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
+- 📫 How to reach me **noogux@gmail.com
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noegt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noegt" height="30" width="40" /></a>
