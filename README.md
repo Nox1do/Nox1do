@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript, Python, Flask and APIs**
 
-- 📫 How to reach me **noogux@gmail.com or Whatsapp :+1809-772-7879** ![Discord Shield](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield)
+- 📫 How to reach me **noogux@gmail.com or  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
